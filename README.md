@@ -10,4 +10,4 @@ My solutions to the problem sets in the Harvard CS50 Python course
 
 [Einstein](https://github.com/code50/155917286/blob/24c764a7927bb852587db010302ae2652f44972a/einstein)
 
-[Tip Calculator]([🙁](https://github.com/code50/155917286/blob/24c764a7927bb852587db010302ae2652f44972a/tip))
+[Tip Calculator]([🙁](https://github.com/code50/155917286/blob/24c764a7927bb852587db010302ae2652f44972a/tip)
